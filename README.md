@@ -10,3 +10,15 @@
 - 💬 I’m currently acting as [President, EWB-VVIT chapter](https://sites.google.com/view/ewb-vvit/home)
 - 😄 Pronouns: *She/Her*
 - ⚡ Fun fact: *I love Indian Mythology* 
+
+## Languages and Tools : 
+
+<code><img height="50"  src="https://github.com/Greeshmapogula/Greeshmapogula/blob/master/Images/C%20programming.png"></code>
+<code><img height="50"  src="https://github.com/Greeshmapogula/Greeshmapogula/blob/master/Images/C%2B%2B.png"></code>
+<code><img height="50"  src="https://github.com/Greeshmapogula/Greeshmapogula/blob/master/Images/python%20logo.png"></code>
+<code><img height="50"  src="https://github.com/Greeshmapogula/Greeshmapogula/blob/master/Images/java.png"></code>
+<code><img height="50"  src="https://github.com/Greeshmapogula/Greeshmapogula/blob/master/Images/My%20Sql.png"></code>
+<code><img height="50"  src="https://github.com/Greeshmapogula/Greeshmapogula/blob/master/Images/Github%20logo.png"></code>
+<code><img height="50"  src="https://github.com/Greeshmapogula/Greeshmapogula/blob/master/Images/Google%20cloud.png"></code>
+<code><img height="50"  src="https://github.com/Greeshmapogula/Greeshmapogula/blob/master/Images/Canva%20logo.jfif"></code>
+
