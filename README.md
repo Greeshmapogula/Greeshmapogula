@@ -22,3 +22,8 @@
 <code><img height="50"  src="https://github.com/Greeshmapogula/Greeshmapogula/blob/master/Images/Google%20cloud.png"></code>
 <code><img height="50"  src="https://github.com/Greeshmapogula/Greeshmapogula/blob/master/Images/Canva%20logo.jfif"></code>
 
+
+![Greeshma's Github Stats](https://github-readme-stats.vercel.app/api?username=Greeshmapogula&show_icons=true&theme=radical)
+
+
+
