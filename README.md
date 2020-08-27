@@ -32,6 +32,8 @@
 - Some Motivation on <a href="https://www.instagram.com/greeshma_vasanth/">Instagram</a>
 
 
+Finally,  I strongly believe that **Engineering is for Doing, not just for studying**. 
+#### Thanks for  visiting my Profile!!
 
 
 
