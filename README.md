@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently a Student at [VVIT,Guntur.](https://www.vvitguntur.com/)
 - 🌱 I’m currently learning *Data Structures , Machine Learning (Fundamentals)*
-- 👯 I’m looking to collaborate on *Projects on Python*
+- 👯 I’m looking to collaborate with *Python Projects*
 - 💬 I’m currently acting as [President, EWB-VVIT chapter](https://sites.google.com/view/ewb-vvit/home)
 - 😄 Pronouns: *She/Her*
 - ⚡ Fun fact: *I love Indian Mythology* 
