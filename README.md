@@ -29,12 +29,7 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Greeshmapogula&theme=dark&hide_border=true" alt="Greeshmapogula - Github Readme Streak Stats" />
 </p>
 
-<details>	
-  <summary><b>⚡ Github Stats</b></summary>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Greeshmapogula&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
- 
-<h3> ⚙️  GitHub Analytics </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=Greeshmapogula&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
+
 
 
 ### Connect with me : 
