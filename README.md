@@ -1,26 +1,48 @@
 # Hi there, I'm Greeshma 👋
 
-### I'm a Computer Science Udergraduate from India. I am passionate about technology and I love learning new things. I am an aspiring Software Developer.
+### 🚀 Automation Test Engineer | Selenium | Java | Cucumber | TestNG | API Testing
 
 ### Pleased to meet you <img src="https://camo.githubusercontent.com/7bf64c0124cdd39d5abc7bc192debd43dd4aae6c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="29px">
 
-- 🔭 I’m currently a Student at [VVIT,Guntur.](https://www.vvitguntur.com/)
-- 🌱 I’m currently learning *Data Structures , Machine Learning (Fundamentals)*
-- 👯 I’m looking to collaborate with *Python Projects*
-- 💬 I’m currently acting as [President, EWB-VVIT chapter](https://sites.google.com/view/ewb-vvit/home)
-- 😄 Pronouns: *She/Her*
-- ⚡ Fun fact: *I love Indian Mythology* 
+I have 3.5 years of experience in automation testing, specializing in building robust Selenium-Cucumber frameworks to ensure high-quality software. Passionate about test automation, efficiency, and continuous learning, I enjoy solving real-world testing challenges and mentoring others in the field.
 
-## Languages and Tools : 
+### 🔍 What I Do:
 
-<code><img height="50"  src="https://github.com/Greeshmapogula/Greeshmapogula/blob/master/Images/C%20programming.png"></code>
-<code><img height="50"  src="https://github.com/Greeshmapogula/Greeshmapogula/blob/master/Images/C%2B%2B.png"></code>
-<code><img height="50"  src="https://github.com/Greeshmapogula/Greeshmapogula/blob/master/Images/python%20logo.png"></code>
-<code><img height="50"  src="https://github.com/Greeshmapogula/Greeshmapogula/blob/master/Images/java.png"></code>
-<code><img height="50"  src="https://github.com/Greeshmapogula/Greeshmapogula/blob/master/Images/My%20Sql.png"></code>
-<code><img height="50"  src="https://github.com/Greeshmapogula/Greeshmapogula/blob/master/Images/Github%20logo.png"></code>
-<code><img height="50"  src="https://github.com/Greeshmapogula/Greeshmapogula/blob/master/Images/Google%20cloud.png"></code>
-<code><img height="50"  src="https://github.com/Greeshmapogula/Greeshmapogula/blob/master/Images/Canva%20logo.jfif"></code>
+✔️ Develop scalable automation frameworks using Selenium, Java, and TestNG
+
+✔️ Implement Page Object Model (POM) for maintainable test scripts
+
+✔️ Work in Agile environments, collaborating with teams for seamless testing
+
+✔️ Exposure to performance testing with JMeter to analyze system performance
+
+performance
+
+### 🏆 Achievements:
+
+🏅 Elevate Wings Award – Recognized for excelling in new technologies and assessments
+
+🏅 SIH 2024 Evaluator – Assessed innovative solutions and mentored teams
+
+### 📌 Current Projects:
+
+🔹 Building a Cucumber-Selenium automation framework from scratch
+
+🔹 Sharing knowledge on LinkedIn & YouTube
+
+
+## 🔍 Areas of Expertise
+
+📌 Test Automation – Building scalable frameworks using Selenium, Java, and Cucumber
+
+📌 BDD Frameworks – Implementing Cucumber with TestNG for structured testing
+
+📌 Test Management – Writing efficient test cases, integrating with CI/CD pipelines
+
+📌 Performance Testing – Exposure to JMeter for load and stress testing
+
+📌 Agile & Collaboration – Working in Agile environments, contributing to sprints
+
 
 
 ![Greeshma's Github Stats](https://github-readme-stats.vercel.app/api?username=Greeshmapogula&show_icons=true&theme=radical)
@@ -38,7 +60,7 @@
 - Some Motivation on <a href="https://www.instagram.com/greeshma_vasanth/">Instagram</a>
 
 
-Finally,  I strongly believe that **Engineering is for Doing, not just for studying**. 
+I believe automation is the key to quality and efficiency! Let’s connect and talk about testing, automation, and career growth. 🚀
 #### Thanks for  visiting my Profile!!
 
 
